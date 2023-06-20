@@ -19,6 +19,18 @@ Reactiflux: https://www.reactiflux.com/
 
 UI libs:
 
+Tailwind: https://tailwindcss.com/
+MUI: https://mui.com/
+Chakra UI: https://chakra-ui.com/
+Ant Design: https://ant.design/
+React Suite: https://rsuitejs.com/
+React Bootstrap: https://react-bootstrap.github.io/
+Semantic UI React: https://react.semantic-ui.com/
+Mantine: https://mantine.dev/
+Blueprint: https://blueprintjs.com/
+NextUI: https://nextui.org/
+
+
 Frameworks:
 
 Open Source:
