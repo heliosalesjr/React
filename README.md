@@ -33,6 +33,9 @@ NextUI: https://nextui.org/
 
 Frameworks:
 
+NextJS: https://nextjs.org/
+Remix: https://remix.run/
+
 Open Source:
 
 Great Youtube Videos:
