@@ -38,4 +38,6 @@ Remix: https://remix.run/
 
 Open Source:
 
+Devhub: https://github.com/devhubapp/devhub
+
 Great Youtube Videos:
