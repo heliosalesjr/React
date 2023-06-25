@@ -19,6 +19,8 @@ Reactiflux: https://www.reactiflux.com/
 
 UI libs:
 
+Preline UI - Ripple UI
+
 Tailwind: https://tailwindcss.com/
 MUI: https://mui.com/
 Chakra UI: https://chakra-ui.com/
