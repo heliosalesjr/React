@@ -19,7 +19,9 @@ Reactiflux: https://www.reactiflux.com/
 
 UI libs:
 
-Preline UI - Ripple UI
+Preline UI: https://preline.co/
+
+Ripple UI: https://www.ripple-ui.com/
 
 Tailwind: https://tailwindcss.com/
 MUI: https://mui.com/
