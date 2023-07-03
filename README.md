@@ -52,6 +52,7 @@ NextUI: https://nextui.org/
 
 Grommet: https://v2.grommet.io/
 
+Headless: https://headlessui.com/
 
 Frameworks:
 
